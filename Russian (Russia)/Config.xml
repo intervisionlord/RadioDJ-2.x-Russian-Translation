@@ -1,0 +1,591 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Настройки</Value>
+  </Settings>
+  <Settings>
+    <Key>tabGeneralSettings</Key>
+    <Value>Общие</Value>
+  </Settings>
+  <Settings>
+    <Key>grOtherSettings</Key>
+    <Value>Прочие настройки</Value>
+  </Settings>
+  <Settings>
+    <Key>ckOnTop</Key>
+    <Value>Поверх всех окон</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSearchResults</Key>
+    <Value>Отображаемые результаты</Value>
+  </Settings>
+  <Settings>
+    <Key>ckMinimize</Key>
+    <Value>Свернуть в трей</Value>
+  </Settings>
+  <Settings>
+    <Key>lbProgramPriority</Key>
+    <Value>Приоритет программы</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRestart</Key>
+    <Value>Требуется перезапуск</Value>
+  </Settings>
+  <Settings>
+    <Key>grLang</Key>
+    <Value>Язык</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreferredLanguage</Key>
+    <Value>Язык по-умолчанию</Value>
+  </Settings>
+  <Settings>
+    <Key>grDbSettings</Key>
+    <Value>Настройки БД</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlServer</Key>
+    <Value>Сервер MySQL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlUsername</Key>
+    <Value>Логин MySQL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlPassword</Key>
+    <Value>Пароль MySQL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlDatabase</Key>
+    <Value>Имя БД</Value>
+  </Settings>
+  <Settings>
+    <Key>PriorityBelowNormal</Key>
+    <Value>Ниже среднего</Value>
+  </Settings>
+  <Settings>
+    <Key>PriorityNormal</Key>
+    <Value>Средний</Value>
+  </Settings>
+  <Settings>
+    <Key>PriorityAboveNormal</Key>
+    <Value>Выше среднего</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDateFormat</Key>
+    <Value>Формат даты</Value>
+  </Settings>
+  <Settings>
+    <Key>tabSoundCards</Key>
+    <Value>Звуковые карты</Value>
+  </Settings>
+  <Settings>
+    <Key>grSoundCards</Key>
+    <Value>Настройки звуковых карт</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard</Key>
+    <Value>Основная 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard2</Key>
+    <Value>Основная 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard3</Key>
+    <Value>Основная 3</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard4</Key>
+    <Value>Основная 4</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard5</Key>
+    <Value>Основная 5</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard6</Key>
+    <Value>Основная 6</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard7</Key>
+    <Value>Основная 7</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard8</Key>
+    <Value>Основная 8</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSwSoundCard</Key>
+    <Value>Свипер/Войсовер</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAuxSoundCard</Key>
+    <Value>AUX плееры</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMonitorSoundCard</Key>
+    <Value>Мониторинг (Сигнал)</Value>
+  </Settings>
+  <Settings>
+    <Key>grInputSound</Key>
+    <Value>Настройки аудиовхода</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputCard</Key>
+    <Value>Звуковая карта на вход</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputChannel</Key>
+    <Value>Входной канал</Value>
+  </Settings>
+  <Settings>
+    <Key>ckFade2Input</Key>
+    <Value>Заглушать музыку при активации</Value>
+  </Settings>
+  <Settings>
+    <Key>grMixing</Key>
+    <Value>Настройки микширования</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlapDuration</Key>
+    <Value>Длительной оверлея</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlapInfo</Key>
+    <Value>мс.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbFadeOut</Key>
+    <Value>Длительность приглушения</Value>
+  </Settings>
+  <Settings>
+    <Key>lbFadeoutInfo</Key>
+    <Value>мс.</Value>
+  </Settings>
+  <Settings>
+    <Key>tabAutoDJ</Key>
+    <Value>Авто DJ</Value>
+  </Settings>
+  <Settings>
+    <Key>grAutoDJMain</Key>
+    <Value>Основные настройки</Value>
+  </Settings>
+  <Settings>
+    <Key>ckAutoDJ</Key>
+    <Value>Запускать при включении</Value>
+  </Settings>
+  <Settings>
+    <Key>ckAutoPlay</Key>
+    <Value>Автопроигрывание при запуске</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAutoPlayInfo</Key>
+    <Value>(работает только с автопроигрыванием)</Value>
+  </Settings>
+  <Settings>
+    <Key>grRotationRules</Key>
+    <Value>Правила ротации</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameSong</Key>
+    <Value>Не играть тот же трек</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes1</Key>
+    <Value>мин.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameArtist</Key>
+    <Value>Не играть того же исполнителя</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes2</Key>
+    <Value>мин</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRulesWarning</Key>
+    <Value>Большие тайминги требуют болшего кол-ва треков</Value>
+  </Settings>
+  <Settings>
+    <Key>grSweeperSettings</Key>
+    <Value>Настройки свиперов</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIfSongIntro</Key>
+    <Value>Если интро длиннее, чем</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIfSongIntroInfo</Key>
+    <Value>сек., проигрывать свипер при запуске трека</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSetSongVol</Key>
+    <Value>Установить громкость трека в</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSetSongVolInfo</Key>
+    <Value>когда играет свипер (0=отключить, 10=максимум)</Value>
+  </Settings>
+  <Settings>
+    <Key>grSilenceRemover</Key>
+    <Value>Удаление тишины</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>Начало порога</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>Середина порога</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>Конец порога</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartLevelDB</Key>
+    <Value>db</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndLevelDB</Key>
+    <Value>db</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSilenceRemover</Key>
+    <Value>Активно</Value>
+  </Settings>
+  <Settings>
+    <Key>tabStreamTitles</Key>
+    <Value>Заголовки потока</Value>
+  </Settings>
+  <Settings>
+    <Key>grRadioDetails</Key>
+    <Value>Детали станции</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStationName</Key>
+    <Value>Имя станции</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStationSlogan</Key>
+    <Value>Слоган станции</Value>
+  </Settings>
+  <Settings>
+    <Key>grTitles</Key>
+    <Value>Заголовки типов файлов</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMusic</Key>
+    <Value>Музыка</Value>
+  </Settings>
+  <Settings>
+    <Key>lbJingle</Key>
+    <Value>Джингл</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVoiceOver</Key>
+    <Value>Войсовер</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCommercial</Key>
+    <Value>Коммерческий</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInternetStream</Key>
+    <Value>Интернет-поток</Value>
+  </Settings>
+  <Settings>
+    <Key>lvVDF</Key>
+    <Value>Файл переменной длительности (VDF)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOthers</Key>
+    <Value>Прочее</Value>
+  </Settings>
+  <Settings>
+    <Key>grMisc</Key>
+    <Value>Прочее</Value>
+  </Settings>
+  <Settings>
+    <Key>ckShowInfo</Key>
+    <Value>Показать в окне</Value>
+  </Settings>
+  <Settings>
+    <Key>tabMisc</Key>
+    <Value>Прочие настройки</Value>
+  </Settings>
+  <Settings>
+    <Key>grPriority</Key>
+    <Value>Приоритет треков</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOnPlayReduce</Key>
+    <Value>При проигрывании уменьшить приоритет на</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDefaultPriority</Key>
+    <Value>Приоритет по-умолчанию</Value>
+  </Settings>
+  <Settings>
+    <Key>grMainButtons</Key>
+    <Value>Кнопки панели</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton1</Key>
+    <Value>Кнопка 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton2</Key>
+    <Value>Кнопка 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton3</Key>
+    <Value>Кнопка 3</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton4</Key>
+    <Value>Кнопка 4</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton5</Key>
+    <Value>Кнопка 5</Value>
+  </Settings>
+  <Settings>
+    <Key>tabPlugins</Key>
+    <Value>Плагины</Value>
+  </Settings>
+  <Settings>
+    <Key>butShow</Key>
+    <Value>Показать</Value>
+  </Settings>
+  <Settings>
+    <Key>butConfigure</Key>
+    <Value>Настройки</Value>
+  </Settings>
+  <Settings>
+    <Key>butDescription</Key>
+    <Value>Описание</Value>
+  </Settings>
+  <Settings>
+    <Key>butAbout</Key>
+    <Value>Подробности</Value>
+  </Settings>
+  <Settings>
+    <Key>bSaveGenSettings</Key>
+    <Value>Закрыть</Value>
+  </Settings>
+  <Settings>
+    <Key>bCancelGenSet</Key>
+    <Value>Отменить</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPlaybackBuffer</Key>
+    <Value>Буффер воспроизведения (мс.)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMixerBuffer</Key>
+    <Value>Буффер микшера</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputBuffer</Key>
+    <Value>Буффер входа</Value>
+  </Settings>
+  <Settings>
+    <Key>ckEnableErrorLog</Key>
+    <Value>Включить лог ошибок</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVTSoundCard</Key>
+    <Value>Войстрек</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCartsSoundCard</Key>
+    <Value>Слоты звуковых карт</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux1</Key>
+    <Value>AUX плеер 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux2</Key>
+    <Value>AUX плеер 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux3</Key>
+    <Value>AUX плеер 3</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux4</Key>
+    <Value>AUX плеер 4</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux5</Key>
+    <Value>AUX плеер 5</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlay</Key>
+    <Value>Установить громкость трека на</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlayDescription</Key>
+    <Value>когда играет оверлей. (0=выкл, 10=максимум)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOnVTVol</Key>
+    <Value>Установить громбкость трека на</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVTVolDescription</Key>
+    <Value>когда играет войстрек (0=выкл, 10=максимум)</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSweeperFit</Key>
+    <Value>Подогнать свипер</Value>
+  </Settings>
+  <Settings>
+    <Key>grLineInTitle</Key>
+    <Value>Название звукового входа</Value>
+  </Settings>
+  <Settings>
+    <Key>ckLineInEnable</Key>
+    <Value>Включить</Value>
+  </Settings>
+  <Settings>
+    <Key>lbLineInTitle</Key>
+    <Value>Название звукового входа</Value>
+  </Settings>
+  <Settings>
+    <Key>lbKeepHistory</Key>
+    <Value>Хранить историю в течение</Value>
+  </Settings>
+  <Settings>
+    <Key>lbKeepHistoryDays</Key>
+    <Value>дней (0=не хранить историю)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreloadTrack</Key>
+    <Value>Подгружать следующий файл перед</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputFadeIn</Key>
+    <Value>Лин. вход. Затухание</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputFadeOut</Key>
+    <Value>Лин. вход. Проявление</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopFadeOut</Key>
+    <Value>Длительность остановки затухания</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopFadeoutMillisec</Key>
+    <Value>мс.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColorPlayedTracks</Key>
+    <Value>Цвет звучавших треков</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColorDisabledTracks</Key>
+    <Value>Цвет отключенных треков</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtworkPath</Key>
+    <Value>Путь до изображений исполнителей</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreloadSeconds</Key>
+    <Value>сек.</Value>
+  </Settings>
+  <Settings>
+    <Key>ckHisghlightPlayedArtist</Key>
+    <Value>Подсвечивать текущего исполнителя</Value>
+  </Settings>
+  <Settings>
+    <Key>ckStoreToDatabase</Key>
+    <Value>Хранить настройки в БД</Value>
+  </Settings>
+  <Settings>
+    <Key>ckRemoteInstance</Key>
+    <Value>Удаленное приложение</Value>
+  </Settings>
+  <Settings>
+    <Key>ckOneInstance</Key>
+    <Value>Запускать только одну копию</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOutputMode</Key>
+    <Value>Режим вывода</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSmartEventsInterval</Key>
+    <Value>Интервал умных событий</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameTitle</Key>
+    <Value>Не воспроизвродить то же название</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes4</Key>
+    <Value>мин.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameAlbum</Key>
+    <Value>Не воспроизводить тот же альбом</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes3</Key>
+    <Value>мин.</Value>
+  </Settings>
+  <Settings>
+    <Key>ckArtistSeparation</Key>
+    <Value>Разделение исполнителей</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtistSeparationNote</Key>
+    <Value>(Если у трека несколько исполнителей определять их индивидуально (экспериментальная функция))</Value>
+  </Settings>
+  <Settings>
+    <Key>ckResetSubcategory</Key>
+    <Value>Сбросить подкатегории</Value>
+  </Settings>
+  <Settings>
+    <Key>lbResetDetails</Key>
+    <Value>(когда ни один трек не может быть проигран)</Value>
+  </Settings>
+  <Settings>
+    <Key>txtRestartRequired</Key>
+    <Value>чтобы изменения вступили в силу, необходим перезапуск программы.</Value>
+  </Settings>
+  <Settings>
+    <Key>grColors</Key>
+    <Value>Цвета</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColorScheme</Key>
+    <Value>Цветовые схемы</Value>
+  </Settings>
+  <Settings>
+    <Key>grRecording</Key>
+    <Value>Запись</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRecordsFolder</Key>
+    <Value>Папка для записей</Value>
+  </Settings>
+  <Settings>
+    <Key>grArtwork</Key>
+    <Value>Изображение</Value>
+  </Settings>
+  <Settings>
+    <Key>ckArtwork</Key>
+    <Value />
+  </Settings>
+</NewDataSet>
