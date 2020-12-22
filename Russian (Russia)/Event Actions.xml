@@ -1,0 +1,175 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Планировщик событий</Value>
+  </Settings>
+  <Settings>
+    <Key>tabMainActions</Key>
+    <Value>Основные действия</Value>
+  </Settings>
+  <Settings>
+    <Key>tabPlugins</Key>
+    <Value>Плагины</Value>
+  </Settings>
+  <Settings>
+    <Key>grActions</Key>
+    <Value>Действия</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>Положение</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOptions</Key>
+    <Value>Опции</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPath</Key>
+    <Value>Путь (URL)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArguments</Key>
+    <Value>Агрументы</Value>
+  </Settings>
+  <Settings>
+    <Key>grPlaylist</Key>
+    <Value>Плейлист</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadTrack</Key>
+    <Value>Загрузить трек</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadTrackFromCategory</Key>
+    <Value>Загрузить трек из категории</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadPlaylist</Key>
+    <Value>Загрузить плейлист</Value>
+  </Settings>
+  <Settings>
+    <Key>ShufflePlaylist</Key>
+    <Value>Перемешать плейлист</Value>
+  </Settings>
+  <Settings>
+    <Key>ClearPlaylist</Key>
+    <Value>Очистить плейлист</Value>
+  </Settings>
+  <Settings>
+    <Key>grPlayback</Key>
+    <Value>Воспроизведение</Value>
+  </Settings>
+  <Settings>
+    <Key>Play</Key>
+    <Value>Начать воспроизведение</Value>
+  </Settings>
+  <Settings>
+    <Key>Pause</Key>
+    <Value>Пауза</Value>
+  </Settings>
+  <Settings>
+    <Key>UnPause</Key>
+    <Value>Снять с паузы</Value>
+  </Settings>
+  <Settings>
+    <Key>Stop</Key>
+    <Value>Остановить воспроизведение</Value>
+  </Settings>
+  <Settings>
+    <Key>grAutomation</Key>
+    <Value>Автоматизация</Value>
+  </Settings>
+  <Settings>
+    <Key>EnableAutoDJ</Key>
+    <Value>Включить Авто DJ</Value>
+  </Settings>
+  <Settings>
+    <Key>DisableAutoDJ</Key>
+    <Value>Отключить Авто DJ</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadRotation</Key>
+    <Value>Загрузить ротацию</Value>
+  </Settings>
+  <Settings>
+    <Key>SetSweeperCategory</Key>
+    <Value>Установить категрию свиперов</Value>
+  </Settings>
+  <Settings>
+    <Key>PauseEvents</Key>
+    <Value>Приостановить события</Value>
+  </Settings>
+  <Settings>
+    <Key>grInputs</Key>
+    <Value>ВХОД</Value>
+  </Settings>
+  <Settings>
+    <Key>MuteInput</Key>
+    <Value>Заглушить вход</Value>
+  </Settings>
+  <Settings>
+    <Key>UnMuteInput</Key>
+    <Value>Разглушить вход</Value>
+  </Settings>
+  <Settings>
+    <Key>grOthers</Key>
+    <Value>Разное</Value>
+  </Settings>
+  <Settings>
+    <Key>RunApplication</Key>
+    <Value>Запустить приложение</Value>
+  </Settings>
+  <Settings>
+    <Key>LaunchInternetLink</Key>
+    <Value>Запустить ссылку</Value>
+  </Settings>
+  <Settings>
+    <Key>EnableEventsCategory</Key>
+    <Value>Включить категорию событий</Value>
+  </Settings>
+  <Settings>
+    <Key>DisableEventsCategory</Key>
+    <Value>Отключить ктегорию событий</Value>
+  </Settings>
+  <Settings>
+    <Key>AssistedEnable</Key>
+    <Value>Включить ассистента</Value>
+  </Settings>
+  <Settings>
+    <Key>AssistedDisable</Key>
+    <Value>Выключить ассистента</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadM3UPlaylist</Key>
+    <Value>Загрузить M3U плейлист</Value>
+  </Settings>
+  <Settings>
+    <Key>SecondsToWait</Key>
+    <Value>Секуд ожидания</Value>
+  </Settings>
+  <Settings>
+    <Key>RunSQLQuery</Key>
+    <Value>Выполнить SQL запрос</Value>
+  </Settings>
+  <Settings>
+    <Key>StartRecording</Key>
+    <Value>Включить запись</Value>
+  </Settings>
+  <Settings>
+    <Key>StopRecording</Key>
+    <Value>Выключить запись</Value>
+  </Settings>
+  <Settings>
+    <Key>butAddAction</Key>
+    <Value>Добавить действие</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value />
+  </Settings>
+</NewDataSet>
