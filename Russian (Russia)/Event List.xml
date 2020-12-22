@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Список событий</Value>
+  </Settings>
+  <Settings>
+    <Key>butAddEvent.Text</Key>
+    <Value>Новое событие</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose.Text</Key>
+    <Value>Закрыть</Value>
+  </Settings>
+  <Settings>
+    <Key>cEventTime.HeaderText</Key>
+    <Value>Час события</Value>
+  </Settings>
+  <Settings>
+    <Key>EventName.HeaderText</Key>
+    <Value>Имя события</Value>
+  </Settings>
+  <Settings>
+    <Key>cEventEnabled.HeaderText</Key>
+    <Value>Включено</Value>
+  </Settings>
+  <Settings>
+    <Key>newEventToolStripMenuItem.Text</Key>
+    <Value>Новое событие</Value>
+  </Settings>
+  <Settings>
+    <Key>duplicateEventToolStripMenuItem.Text</Key>
+    <Value>Дублировать событие</Value>
+  </Settings>
+  <Settings>
+    <Key>deleteEventToolStripMenuItem.Text</Key>
+    <Value>Удалить событие</Value>
+  </Settings>
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Title</Key>
+    <Value>Удалить событие?</Value>
+  </Settings>
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Text</Key>
+    <Value>Вы действительно хотите удалить это событие?</Value>
+  </Settings>
+  <Settings>
+    <Key>ckUpcomingOnly</Key>
+    <Value>Просмотр по часам</Value>
+  </Settings>
+  <Settings>
+    <Key>butRefresh</Key>
+    <Value>Обновить</Value>
+  </Settings>
+  <Settings>
+    <Key>ButCategories</Key>
+    <Value>Категории</Value>
+  </Settings>
+  <Settings>
+    <Key>txEventsCategories</Key>
+    <Value>Категории событий</Value>
+  </Settings>
+  <Settings>
+    <Key>txConfirmatioNeeded</Key>
+    <Value>Требуется подтверждение</Value>
+  </Settings>
+  <Settings>
+    <Key>txDeleteCategory</Key>
+    <Value>Вы действительно хотите удалить выбранную категорию?</Value>
+  </Settings>
+  <Settings>
+    <Key>txRenameCategory</Key>
+    <Value>Вы действительно хотите переименовать выбранную категориб?</Value>
+  </Settings>
+  <Settings>
+    <Key>txAllEvents</Key>
+    <Value>Все события</Value>
+  </Settings>
+  <Settings>
+    <Key>txCategoriesClose</Key>
+    <Value />
+  </Settings>
+</NewDataSet>
