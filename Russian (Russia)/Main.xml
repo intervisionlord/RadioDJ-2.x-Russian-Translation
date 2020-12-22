@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions</Key>
+    <Value>Опции</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTimeTop</Key>
+    <Value>Время</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRemainingTop</Key>
+    <Value>Осталось</Value>
+  </Settings>
+  <Settings>
+    <Key>lbElapsedTop</Key>
+    <Value>Проиграно</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTotalTimeTop</Key>
+    <Value>Всего</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIntroTop</Key>
+    <Value>Интро</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOutroTop</Key>
+    <Value />
+  </Settings>
+</NewDataSet>

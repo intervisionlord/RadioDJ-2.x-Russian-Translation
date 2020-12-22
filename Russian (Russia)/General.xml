@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>Path</Key>
+    <Value>Путь/URL</Value>
+  </Settings>
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Исполнитель</Value>
+  </Settings>
+  <Settings>
+    <Key>Title</Key>
+    <Value>Название</Value>
+  </Settings>
+  <Settings>
+    <Key>Album</Key>
+    <Value>Альбом</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Любая категория</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Любая подкатегория</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Любой жанр</Value>
+  </Settings>
+  <Settings>
+    <Key>NoEvent</Key>
+    <Value>Нет предстоящих событий</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmTitle</Key>
+    <Value>Требуется подтверждение</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmClose</Key>
+    <Value>Подтвердите выход</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value />
+  </Settings>
+</NewDataSet>
