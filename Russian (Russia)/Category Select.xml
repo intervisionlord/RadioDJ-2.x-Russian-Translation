@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Файл из категории</Value>
+  </Settings>
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>Файл из категории или жанра</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Категория</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Подкатегория</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Жанр</Value>
+  </Settings>
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>Любой жанр</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSelMode</Key>
+    <Value>Выбрать несколько</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>Реже играл недавно</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>Чаще играл недавно</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>Меньше всего играл</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>Больше всего играл</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>По приоритету</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>Случайно</Value>
+  </Settings>
+  <Settings>
+    <Key>bAddCatTrack</Key>
+    <Value />
+  </Settings>
+</NewDataSet>

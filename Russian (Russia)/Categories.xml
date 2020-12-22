@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>ru-RU</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Менеджер категорий</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Category.Text</Key>
+    <Value>Категории</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Subcategory.Text</Key>
+    <Value>Подкатегории</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Genre.Text</Key>
+    <Value>Жанр</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.Rename.Text</Key>
+    <Value>Переименовать</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.Ok.Text</Key>
+    <Value />
+  </Settings>
+</NewDataSet>
